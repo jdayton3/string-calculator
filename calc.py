@@ -1,2 +1,4 @@
 def string(text):
-    return 0
+    if not text:
+        return 0
+    return float(text)

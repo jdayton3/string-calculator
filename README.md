@@ -9,6 +9,8 @@ Based on [this](http://www.peterprovost.org/blog/2012/05/02/kata-the-only-way-to
 ## Usage
 
 ```python
-calc("")
+calc.string("")
 # 0
+calc.string("1.0")
+# 1.0
 ```
