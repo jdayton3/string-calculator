@@ -1,2 +1,2 @@
-def string():
-    pass
+def string(text):
+    return 0
