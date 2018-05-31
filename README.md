@@ -16,3 +16,9 @@ calc.string("1.0")
 calc.string("1\n2")
 # 3.0
 ```
+
+## Running tests
+
+```bash
+python3 test_calc.py
+```
