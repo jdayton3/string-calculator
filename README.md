@@ -13,4 +13,6 @@ calc.string("")
 # 0
 calc.string("1.0")
 # 1.0
+calc.string("1\n2")
+# 3.0
 ```
